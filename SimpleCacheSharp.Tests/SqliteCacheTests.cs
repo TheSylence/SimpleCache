@@ -3,7 +3,7 @@ using System.Data.SQLite;
 using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace SimpleCache.Tests
+namespace SimpleCacheSharp.Tests
 {
 	[TestClass]
 	public class SqliteCacheTests

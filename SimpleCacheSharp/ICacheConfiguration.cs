@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace SimpleCache
+namespace SimpleCacheSharp
 {
 	/// <summary>
 	///     Used to configure and build <see cref="ICache" /> instances.

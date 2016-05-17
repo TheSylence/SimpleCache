@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCache", "SimpleCache\SimpleCache.csproj", "{A2101F65-69AF-4B82-BCFC-C15B2E361B24}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCacheSharp", "SimpleCacheSharp\SimpleCacheSharp.csproj", "{A2101F65-69AF-4B82-BCFC-C15B2E361B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCache.Tests", "SimpleCache.Tests\SimpleCache.Tests.csproj", "{F3E3CD4F-8DEA-416F-B29B-8BCEF34F5E04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCacheSharp.Tests", "SimpleCacheSharp.Tests\SimpleCacheSharp.Tests.csproj", "{F3E3CD4F-8DEA-416F-B29B-8BCEF34F5E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

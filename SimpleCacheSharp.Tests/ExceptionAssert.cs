@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace SimpleCache.Tests
+namespace SimpleCacheSharp.Tests
 {
 	internal static class ExceptionAssert
 	{

@@ -2,7 +2,7 @@
 using System.Data.SQLite;
 using System.Threading.Tasks;
 
-namespace SimpleCache
+namespace SimpleCacheSharp
 {
 	internal class CacheConfiguration : ICacheConfiguration
 	{

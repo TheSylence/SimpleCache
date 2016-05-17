@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Fody;
 using Resourcer;
 
-namespace SimpleCache
+namespace SimpleCacheSharp
 {
 	[ConfigureAwait( false )]
 	internal class SqliteCache : ICache

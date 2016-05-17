@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace SimpleCache.Tests
+namespace SimpleCacheSharp.Tests
 {
 	[TestClass]
 	public class CacheFactoryTests

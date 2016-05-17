@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace SimpleCache
+namespace SimpleCacheSharp
 {
 	/// <summary>
 	///     Interface for accessing a cache.

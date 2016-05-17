@@ -6,8 +6,8 @@
     <ProjectGuid>{F3E3CD4F-8DEA-416F-B29B-8BCEF34F5E04}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SimpleCache.Tests</RootNamespace>
-    <AssemblyName>SimpleCache.Tests</AssemblyName>
+    <RootNamespace>SimpleCacheSharp.Tests</RootNamespace>
+    <AssemblyName>SimpleCacheSharp.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -64,7 +64,7 @@
     <Compile Include="SqliteCacheTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SimpleCache\SimpleCache.csproj">
+    <ProjectReference Include="..\SimpleCacheSharp\SimpleCacheSharp.csproj">
       <Project>{a2101f65-69af-4b82-bcfc-c15b2e361b24}</Project>
       <Name>SimpleCache</Name>
     </ProjectReference>

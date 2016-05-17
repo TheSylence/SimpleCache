@@ -1,4 +1,4 @@
-﻿namespace SimpleCache
+﻿namespace SimpleCacheSharp
 {
 	public static class CacheFactory
 	{

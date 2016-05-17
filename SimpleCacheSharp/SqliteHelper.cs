@@ -1,7 +1,7 @@
 using System;
 using System.Data.SQLite;
 
-namespace SimpleCache
+namespace SimpleCacheSharp
 {
 	internal static class SqliteHelper
 	{
